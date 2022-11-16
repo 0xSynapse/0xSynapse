@@ -25,13 +25,16 @@
 
 <br>
 <br>
-<br>
+
+<hr>
 
 ### Things I love:
 - Python <a href="https://emoji.gg/emoji/1887_python"><img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="16px" height="16px" alt="python"></a> 
 - Backend Development 🧩
 - AI||ML||CV 👻
 - Neural Networks 🧠
+
+<hr>
 
 ### :zap: Github Stats
 <p>
