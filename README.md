@@ -1,12 +1,12 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3> -->
+<!-- <h3> Hello Devs 😶‍🌫️, I am Ankan Ghosh 🌀</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋
-[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
-[![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:vbhogayata@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xsynapse)](https://www.linkedin.com/in/0xsynapse/)
+[![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankanghosh.makautai@gmail.com)](mailto:ankanghosh.makautai@gmail.com) 
 
 
-- 🎯 Portfolio website: [Portfolio](https://varadbhogayata.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://0xsynapse.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
@@ -28,19 +28,20 @@
 
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
-
+- Backend Development 🧩
+- AI||ML||CV 👻
+- Neural Networks 🧠
 
 ### :zap: Github Stats
 <p>
-    <a href="https://gitstats.me/varadbhogayata" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=varadbhogayata&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
+    <a href="https://gitstats.me/0xSynapse" target="_blank"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=0xSynapse&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
     </a>
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadbhogayata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSynapse&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
-[linkedin]: https://www.linkedin.com/in/varadbhogayata
+[linkedin]: https://www.linkedin.com/in/0xsynapse
