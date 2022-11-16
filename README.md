@@ -1,7 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <!-- <h3> Hello Devs 😶‍🌫️, I am Ankan Ghosh 🌀</h3> -->
-### Hello Devs 😶‍🌫️, I am Ankan Ghosh 🌀
+### Hello Devs 😶‍🌫️ || I am Ankan Ghosh 🌀
 [![Linkedin Badge](https://img.shields.io/badge/-0xSynapse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xsynapse)](https://www.linkedin.com/in/0xsynapse/)
 [![Gmail Badge](https://img.shields.io/badge/-ankanghosh.makautai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankanghosh.makautai@gmail.com)](mailto:ankanghosh.makautai@gmail.com) 
 
