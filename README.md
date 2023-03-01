@@ -44,13 +44,11 @@
 
 ### :zap: Github Stats
 <p>
-    <a href="https://gitstats.me/0xSynapse" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=0xSynapse&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
-    </a>
+    ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSynapse&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-<div align="center">
+
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
