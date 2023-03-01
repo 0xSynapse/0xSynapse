@@ -44,12 +44,12 @@
 
 ### :zap: Github Stats
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
+![Ankan's Github Stats](https://github-readme-stats.vercel.app/api?username=0xSynapse&count_private=true&show_icons=true&include_all_commits=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSynapse&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0xSynapse.0xSynapse)
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
