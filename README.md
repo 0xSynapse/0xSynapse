@@ -43,19 +43,17 @@
 <hr>
 
 ### :zap: Github Stats
-<p>
-    ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
-</p>
+
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSynapse&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-<!--[website]: -->
-[linkedin]: https://www.linkedin.com/in/0xsynapse
-    
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+
+
 
