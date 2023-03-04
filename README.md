@@ -8,7 +8,7 @@
 
 - 🎯 Portfolio website: [Portfolio](https://0xsynapse.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][https://twitter.com/0xSynapse]
+- 📬 How to reach me: [Let's get in touch!](https://twitter.com/0xSynapse)
 
 ### Languages and Tools: 
 <div>
