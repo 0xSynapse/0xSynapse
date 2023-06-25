@@ -15,7 +15,6 @@ I am a versatilist and easily adapt to different hats (ML Engineer 🤖, Full St
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-<br>
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on  **AttendiFy**
