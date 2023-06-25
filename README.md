@@ -22,7 +22,7 @@ I am a versatilist and easily adapt to different hats (ML Engineer 🤖, Full St
 - 🤝 &nbsp; I’m looking to collaborate on [TrackXpert](https://github.com/0xSynapse/Object_Tracking_Using_DeepSORT-YOLOv7)
 - 🌱 &nbsp; I’m currently learning MERN Stack 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/0xSynapse)
-- 🎨 &nbsp; I often used to make some projects in Canva and Figma 👉
+- 🎨 &nbsp; I often used to make some projects in Canva and Figma 🧩
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help :)
 - 📫 &nbsp; Feel free to reach me on [Mail](mailto:ankanghosh.makautai@gmail.com)
 - 🪪 &nbsp; Checkout my [resume](https://openinapp.co/Resume-0xsynapse)
