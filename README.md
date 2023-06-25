@@ -9,12 +9,13 @@
 <a href='https://www.kaggle.com/ankanghosh651'><img alt="kaggle" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/assets/kaggle.svg" height='18px'/></a>
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner-level Designer 🎨) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. 
+I am a versatilist and easily adapt to different hats (ML Engineer 🤖, Full Stack Web Developer 🌐, App Developer 📱 or beginner-level Designer 🎨) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. 
 <br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
+
+<br>
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on  **AttendiFy**
