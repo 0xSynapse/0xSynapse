@@ -1,57 +1,83 @@
+
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <!-- <h3> Hello Devs 😶‍🌫️, I am Ankan Ghosh 🌀</h3> -->
-### Hello Devs 😶‍🌫️ || I am Ankan Ghosh 🌀
-[![Linkedin Badge](https://img.shields.io/badge/-0xSynapse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xsynapse)](https://www.linkedin.com/in/0xsynapse/)
-[![Gmail Badge](https://img.shields.io/badge/-ankanghosh.makautai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankanghosh.makautai@gmail.com)](mailto:ankanghosh.makautai@gmail.com) 
+## Hello Devs 😶‍🌫️ || I am Ankan Ghosh ♾️
+
+<a href='https://www.linkedin.com/in/0xsynapse/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/0xSynapse'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/ankanghosh651'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 
-- 🎯 Portfolio website: [Portfolio](https://0xsynapse.github.io/)
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!](https://twitter.com/0xSynapse)
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner-level Designer 🎨) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. 
+<br/>
+<br/>
 
-### Languages and Tools: 
-<div>
-<p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-</p>
-</div>
+- 🔭 &nbsp; I’m currently working on  **AttendiFy**
+- 🤝 &nbsp; I’m looking to collaborate on [TrackXpert](https://github.com/0xSynapse/Object_Tracking_Using_DeepSORT-YOLOv7)
+- 🌱 &nbsp; I’m currently learning MERN Stack 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/0xSynapse)
+- 🎨 &nbsp; I often used to make some projects in Canva and Figma 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help :)
+- 📫 &nbsp; Feel free to reach me on [Mail](mailto:ankanghosh.makautai@gmail.com)
+- 🪪 &nbsp; Checkout my [resume](https://openinapp.co/Resume-0xsynapse)
+- 📚 &nbsp; When I am free, I read **Bibhutibhushan Bandyopadhyay's** novels and watch **Satyajit Ray's** movies.
 
 <br>
+
+### 🔨 Languages and Tools:
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"></a>
+<a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="aws" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"></a>
+<a href="https://cloud.google.com/" target="_blank"><img align="left" alt="gcp" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/google-cloud/google-cloud.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://flutter.dev" target="_blank"><img align="left" alt="Flutter" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg"></a>
+<a href="https://docker.dev/" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
+<a href="" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kubernetes/kubernetes.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
 <br>
 
-<hr>
 
-### Things I love:
-- Python <a href="https://emoji.gg/emoji/1887_python"><img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="16px" height="16px" alt="python"></a> 
-- Backend Development 🧩
-- AI||ML||CV 👻
-- Neural Networks 🧠
+### 📊 Github Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0xSynapse&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xSynapse&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
 
-<hr>
+<br>
 
-### :zap: Github Stats
+<br>
 
-![Ankan's Github Stats](https://github-readme-stats.vercel.app/api?username=0xSynapse&count_private=true&show_icons=true&include_all_commits=true)
+### If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSynapse&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="https://www.buymeacoffee.com/0xsynapse" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" ></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0xSynapse.0xSynapse)
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<br>
+
+<!--### 🛠️ My Projects
+<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>-->
+
 
 
 
