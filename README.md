@@ -22,7 +22,7 @@ I am a versatilist and easily adapt to different hats (ML Engineer 🤖, Full St
 - 🌱 &nbsp; I’m currently learning MERN Stack 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/0xSynapse)
 - 🎨 &nbsp; I often used to make some projects in Canva and Figma 🧩
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help :)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to reach me on [Mail](mailto:ankanghosh.makautai@gmail.com)
 - 🪪 &nbsp; Checkout my [resume](https://openinapp.co/Resume-0xsynapse)
 - 📚 &nbsp; When I am free, I read **Bibhutibhushan Bandyopadhyay's** novels and watch **Satyajit Ray's** movies.
