@@ -24,8 +24,8 @@ I am a versatilist and easily adapt to different hats (ML Engineer 🤖, Full St
 - 🎨 &nbsp; I often used to make some projects in Canva and Figma 🧩
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to reach me on [Mail](mailto:ankanghosh.makautai@gmail.com)
-- 🪪 &nbsp; Checkout my [resume](https://openinapp.co/Resume-0xsynapse)
-- 📚 &nbsp; When I am free, I read **Bibhutibhushan Bandyopadhyay's** novels, watch **Satyajit Ray's** movies.
+- 🪪 &nbsp; Checkout my [resume](https://gdrive.oia.bio/ankanghosh_resume)
+- 📚 &nbsp; When I am free, I watch [Satyajit Ray's](https://satyajitray.org/apu-trilogy/) movies.
 
 <br>
 
