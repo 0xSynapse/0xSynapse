@@ -25,7 +25,7 @@ I am a versatilist and easily adapt to different hats (ML Engineer 🤖, Full St
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to reach me on [Mail](mailto:ankanghosh.makautai@gmail.com)
 - 🪪 &nbsp; Checkout my [resume](https://openinapp.co/Resume-0xsynapse)
-- 📚 &nbsp; When I am free, I read **Bibhutibhushan Bandyopadhyay's** novels and watch **Satyajit Ray's** movies.
+- 📚 &nbsp; When I am free, I read **Bibhutibhushan Bandyopadhyay's** novels, watch **Satyajit Ray's** movies.
 
 <br>
 
