@@ -53,10 +53,10 @@ I am a versatilist and easily adapt to different hats (ML Engineer 🤖, Full St
 
 ### 📊 Github Stats
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0xSynapse&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xSynapse&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xSynapse&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=0xSynapse&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
 <br>
