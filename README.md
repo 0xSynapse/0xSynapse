@@ -21,7 +21,7 @@ I am a versatilist and easily adapt to different hats (ML Engineer 🤖, Full St
 - 🌱 &nbsp; I’m currently learning MERN Stack 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/0xSynapse)
 - 🎨 &nbsp; I often used to make some projects in Canva and Figma 🧩
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help
+- 💬 &nbsp; Ask me about anything tech-related, I am happy to help
 - 📫 &nbsp; Feel free to reach me on [Mail](mailto:ankanghosh.makautai@gmail.com)
 - 🪪 &nbsp; Checkout my [resume](https://gdrive.oia.bio/ankanghosh_resume)
 - 📚 &nbsp; When I am free, I watch [The Apu's Trilogy by Satyajit Ray](https://satyajitray.org/apu-trilogy/)
@@ -53,10 +53,10 @@ I am a versatilist and easily adapt to different hats (ML Engineer 🤖, Full St
 
 ### 📊 Github Stats
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xSynapse&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0xSynapse&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=0xSynapse&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xSynapse&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
 <br>
