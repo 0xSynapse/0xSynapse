@@ -52,12 +52,10 @@ I am a versatilist and easily adapt to different hats (ML Engineer 🤖, Full St
 
 
 ### 📊 Github Stats
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0xSynapse&show_icons=true&theme=transparent&rank_icon=github" />
-</a>
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xSynapse&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
+<a href='https://github.com/0xSynapse/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/0xSynapse/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/0xSynapse/github-stats-transparent/output/generated/languages.svg)
 
 <br>
 
