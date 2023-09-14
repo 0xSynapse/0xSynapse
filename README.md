@@ -52,7 +52,7 @@ I am a versatilist and easily adapt to different hats (ML Engineer 🤖, Full St
 
 
 ### 📊 Github Stats
-<a href='https://github.com/0xSynapse/github-stats-transparent'>
+<a href='https://github.com/anuraghazra/github-readme-stats'>
   
 ![Stats Overview](https://raw.githubusercontent.com/0xSynapse/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/0xSynapse/github-stats-transparent/output/generated/languages.svg)
