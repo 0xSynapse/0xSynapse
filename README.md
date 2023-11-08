@@ -24,7 +24,7 @@ I am a versatilist and easily adapt to different hats (ML Engineer 🤖, Full St
 - 💬 &nbsp; Ask me about anything tech-related, I am happy to help
 - 📫 &nbsp; Feel free to reach me on [Mail](mailto:ankanghosh.makautai@gmail.com)
 - 🪪 &nbsp; Checkout my [resume](https://gdrive.oia.bio/ankanghosh_resume)
-- 📚 &nbsp; When I am free, I watch [The Apu's Trilogy by Satyajit Ray](https://satyajitray.org/apu-trilogy/)
+- 📚 &nbsp; When I am free, I watch [The Apu's Trilogy](https://satyajitray.org/apu-trilogy/)
 
 <br>
 
