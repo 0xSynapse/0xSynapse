@@ -1,14 +1,14 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <!-- <h3> Hello Devs 😶‍🌫️, I am Ankan Ghosh 🌀</h3> -->
-## Hello Devs 😶‍🌫️ || I am Ankan Ghosh ♾️
+## ``YOLOv8_Object_Tracking_and_Counting_with_OpenCV.ipynb``
 
 <a href='https://www.linkedin.com/in/0xsynapse/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/0xSynapse'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/ankanghosh651'><img alt="kaggle" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/assets/kaggle.svg" height='18px'/></a>
 
 
-I am a versatilist and easily adapt to different hats (ML Engineer 🤖, Full Stack Web Developer 🌐, App Developer 📱 or beginner-level Designer 🎨) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. 
+I am a versatilist and easily adapt to different hats (ML Engineer 🤖, Web Developer 🌐) depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. 
 <br/>
 <br/>
 
