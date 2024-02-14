@@ -1,7 +1,9 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <!-- <h3> Hello Devs 😶‍🌫️, I am Ankan Ghosh 🌀</h3> -->
-## model.fit(Ankan Ghosh)
+<h3> Hi, I am Ankan </h3>
+
+---
 
 <a href='https://www.linkedin.com/in/0xsynapse/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/0xSynapse'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/assets/twitter.svg" height='18px'/></a>
