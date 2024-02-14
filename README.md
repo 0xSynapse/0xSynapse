@@ -1,10 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <!-- <h3> Hello Devs 😶‍🌫️, I am Ankan Ghosh 🌀</h3> -->
-<h3> Hi, I am Ankan </h3>
-<a href='https://www.linkedin.com/in/0xsynapse/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/0xSynapse'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/ankanghosh651'><img alt="kaggle" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/assets/kaggle.svg" height='18px'/></a>
+<h3> Hi, I am Ankan </h3> 
 
 ---
 
@@ -12,7 +9,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 
 ### 🧐 More About Me:
 
@@ -26,7 +23,7 @@
 - 🪪 &nbsp; Checkout my [resume](https://gdrive.oia.bio/ankanghosh_resume)
 - 📚 &nbsp; When I am free, I watch [The Apu's Trilogy](https://satyajitray.org/apu-trilogy/)
 
-<br>
+---
 
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
@@ -48,24 +45,30 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<br>
-
+---
 
 ### 📊 Github Stats
-<a href='https://github.com/anuraghazra/github-readme-stats'>
+<a href=''>
   
 ![Stats Overview](https://raw.githubusercontent.com/0xSynapse/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/0xSynapse/github-stats-transparent/output/generated/languages.svg)
 
-<br>
+---
 
 ### If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/0xsynapse" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" ></a>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0xSynapse.0xSynapse)
+
+<a href='https://www.linkedin.com/in/0xsynapse/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/assets/linkedin.svg" height='25px'/></a>
+<a href='https://twitter.com/0xSynapse'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/assets/twitter.svg" height='25px'/></a>
+<!-- <a href='https://www.kaggle.com/ankanghosh651'><img alt="kaggle" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/assets/kaggle.svg" height='18px'/></a> -->
 
 <br>
+<br>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0xSynapse.0xSynapse)
+
 
 <!--### 🛠️ My Projects
 <a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
