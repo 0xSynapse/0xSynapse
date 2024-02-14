@@ -1,27 +1,24 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://youtu.be/NfnWJUyUJYU?si=El6jqCDCmlVXre2H) 
 
 <!-- <h3> Hello Devs 😶‍🌫️, I am Ankan Ghosh 🌀</h3> -->
 <h3> Hi, I am Ankan </h3> 
 
 ---
 
-#### I'm an engineer, an open-source nerd, and deeply passionate about computer science, mathematics, and algorithms. <br> I'm a Potterhead, drawing parallels between Hogwarts and Deep Learning. <br> I often build, deploy, and maintain backends.
+#### I'm an engineer, an open-source nerd, deeply passionate about computer science, mathematics, and algorithms. <br> I'm a Potterhead, drawing parallels between Hogwarts and Deep Learning. <br> I often build, deploy, and maintain backends.
 
 ---
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="270px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200px"/>
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on [AttendiFy](https://github.com/0xSynapse/Attendify)
-- 🤝 &nbsp; I’m looking to collaborate on [TrackXpert](https://github.com/0xSynapse/TrackXpert)
-- 🌱 &nbsp; I’m currently learning MERN Stack 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/0xSynapse)
-- 🎨 &nbsp; I often used to make some projects in Canva and Figma 🧩
-- 💬 &nbsp; Ask me about anything tech-related, I am happy to help
-- 📫 &nbsp; Feel free to reach me on [Mail](mailto:ankanghosh.makautai@gmail.com)
-- 🪪 &nbsp; Checkout my [resume](https://gdrive.oia.bio/ankanghosh_resume)
-- 📚 &nbsp; When I am free, I watch [The Apu's Trilogy](https://satyajitray.org/apu-trilogy/)
+- 🔭 &nbsp; I’m currently working on [Ultralytics-Explorer](https://github.com/0xSynapse/ultralytics)
+- 🌱 &nbsp; I’m currently learning Deep Learning
+- 📝 &nbsp; Read my blogs on [LearnOpenCV](https://learnopencv.com/author/ankan/) 
+- 📫 &nbsp; Feel free to reach me on [Mail](mailto:work.ankanghosh@gmail.com)
+- 🪪 &nbsp; Checkout my [Resume]()
+- 🎬 &nbsp; When I am free, I watch [The Apu's Trilogy](https://satyajitray.org/apu-trilogy)
 
 ---
 
@@ -29,17 +26,13 @@
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
 <a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="aws" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/aws/aws.svg"></a>
 <a href="https://cloud.google.com/" target="_blank"><img align="left" alt="gcp" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/google-cloud/google-cloud.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://flutter.dev" target="_blank"><img align="left" alt="Flutter" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg"></a>
 <a href="https://docker.dev/" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
 <a href="" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kubernetes/kubernetes.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
