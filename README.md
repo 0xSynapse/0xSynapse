@@ -67,7 +67,7 @@
 <br>
 <br>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0xSynapse.0xSynapse)
+![visitor badge](https://vbr.nathanchung.dev/badge?page_id=0xSynapse.0xSynapse&logo=github&lcolor=154360&color=212F3C&style=flat&text=VISITORS)
 
 
 <!--### 🛠️ My Projects
