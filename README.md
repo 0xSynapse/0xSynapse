@@ -36,14 +36,14 @@
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 </div>
+
+<br>
 <br>
 <br>
 
-<div style="clear: both; display: block; width: 100%;"></div>
+---
 
-<div align="center">
-  <hr>
-</div>
+
 
 
 <div align="left" style="margin-top: 20px;">
