@@ -39,12 +39,19 @@
 </div>
 <br>
 <br>
+
 <div style="clear: both; display: block; width: 100%;"></div>
 
----
-
-### 📊 Github Stats
 <div align="center">
+  <hr>
+</div>
+
+
+<div align="left" style="margin-top: 20px;">
+  <h3>📊 GitHub Stats</h3>
+</div>
+
+<div align="left">
 <a href=''>
   
 ![Stats Overview](https://raw.githubusercontent.com/0xSynapse/github-stats-transparent/output/generated/overview.svg)
