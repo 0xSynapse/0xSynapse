@@ -1,7 +1,8 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://youtu.be/NfnWJUyUJYU?si=El6jqCDCmlVXre2H) 
 
 <!-- <h3> Hello Devs 😶‍🌫️, I am Ankan Ghosh 🌀</h3> -->
-<h3> Hi, I am Ankan </h3> 
+<h3> Hi, I am Ankan 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></h3>
 
 ---
 
