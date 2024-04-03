@@ -16,7 +16,7 @@
 
 ### 🧐 More About Me
 
-- 🔭 &nbsp; I’m currently working on [Ultralytics-Explorer](https://github.com/0xSynapse/ultralytics)
+- 🔭 &nbsp; I’m currently worked on [Ultralytics-Explorer](https://github.com/ultralytics/ultralytics) , [YOLOv9](https://github.com/WongKinYiu/yolov9)
 - 🌱 &nbsp; I’m currently learning Deep Learning
 - 📝 &nbsp; Read my blogs on [LearnOpenCV](https://learnopencv.com/author/ankan/) 
 - 📫 &nbsp; Feel free to reach me on [Mail](mailto:work.ankanghosh@gmail.com)
