@@ -8,7 +8,7 @@
 
 ---
 
-#### I'm an engineer, an open-source nerd, deeply passionate about computer science, mathematics, and algorithms. <br> I'm a Potterhead, drawing parallels between Hogwarts and Deep Learning. <br> I often build, deploy, and maintain backends.
+#### I'm an engineer, an open-source nerd, and deeply passionate about computer science, mathematics, and algorithms. <br> I'm a Potterhead, drawing parallels between Hogwarts and Deep Learning. <br> I often build, deploy, and maintain backends.
 
 ---
 
@@ -16,7 +16,7 @@
 
 ### 🧐 More About Me
 
-- 🔭 &nbsp; I’m currently worked on [Ultralytics-Explorer](https://github.com/ultralytics/ultralytics) , [YOLOv9](https://github.com/WongKinYiu/yolov9)
+- 🔭 &nbsp; I have currently worked on [Ultralytics-Explorer](https://github.com/ultralytics/ultralytics) , [YOLOv9](https://github.com/WongKinYiu/yolov9)
 - 🌱 &nbsp; I’m currently learning Deep Learning
 - 📝 &nbsp; Read my blogs on [LearnOpenCV](https://learnopencv.com/author/ankan/) 
 - 📫 &nbsp; Feel free to reach me on [Mail](mailto:work.ankanghosh@gmail.com)
