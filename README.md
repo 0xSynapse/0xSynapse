@@ -7,6 +7,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CFF30&center=true&random=false&width=435&lines=Hi%2C+I+am+Ankan;Engineer;Deep+Learning;Opensource" alt="Typing SVG" /></a>
 </p>
 
+[![](https://github.com/deep-diver/deep-diver/blob/master/chat.svg)](https://twitter.com/algo_diver)
+
 ---
 
 #### I'm an engineer, an open-source nerd, and deeply passionate about computer science, mathematics, and algorithms. <br> I'm a Potterhead, drawing parallels between Hogwarts and Deep Learning. <br> I often build, deploy, and maintain backends.
