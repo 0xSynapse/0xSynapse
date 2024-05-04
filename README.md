@@ -1,13 +1,15 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://youtu.be/NfnWJUyUJYU?si=El6jqCDCmlVXre2H) 
 
+---
+
 
 
 <!-- <h3> Hello Devs 😶‍🌫️, I am Ankan Ghosh 🌀</h3> -->
-<p align="center">
+<!--<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CFF30&center=true&random=false&width=435&lines=Hi%2C+I+am+Ankan;Engineer;Deep+Learning;Opensource" alt="Typing SVG" /></a>
-</p>
+</p> -->
 
-[![](https://github.com/deep-diver/deep-diver/blob/master/chat.svg)](https://twitter.com/algo_diver)
+[![](https://github.com/0xSynapse/0xSynapse/blob/main/chat.svg)](https://twitter.com/0xSynapse)
 
 ---
 
