@@ -11,9 +11,6 @@
 
 [![](https://github.com/0xSynapse/0xSynapse/blob/main/chat.svg)](https://twitter.com/0xSynapse)
 
----
-
-#### I'm an engineer, an open-source nerd, and deeply passionate about computer science, mathematics, and algorithms. <br> I'm a Potterhead, drawing parallels between Hogwarts and Deep Learning. <br> I often build, deploy, and maintain backends.
 
 ---
 
