@@ -2,19 +2,11 @@
 
 ---
 
-
-
-<!-- <h3> Hello Devs 😶‍🌫️, I am Ankan Ghosh 🌀</h3> -->
-<!--<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CFF30&center=true&random=false&width=435&lines=Hi%2C+I+am+Ankan;Engineer;Deep+Learning;Opensource" alt="Typing SVG" /></a>
-</p> -->
-
 [![](https://github.com/0xSynapse/0xSynapse/blob/main/chat.svg)](https://twitter.com/0xSynapse)
-
 
 ---
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/techstack.gif" width="220px"/>
 
 ### 🧐 More About Me
 
@@ -26,6 +18,7 @@
 - 🎬 &nbsp; When I am free, I watch [The Apu's Trilogy](https://satyajitray.org/apu-trilogy)
 
 ---
+
 ### 🔨 Languages and Tools
 <div align="left">
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
@@ -47,19 +40,17 @@
 
 ---
 
-
 <div align="left" style="margin-top: 20px;">
   <h3>📊 GitHub Stats</h3>
 </div>
 
 <div align="left">
-<a href=''>
   
 ![Stats Overview](https://raw.githubusercontent.com/0xSynapse/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/0xSynapse/github-stats-transparent/output/generated/languages.svg)
 </div>
 
-![](https://github.com/deep-diver/deep-diver/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/0xSynapse/0xSynapse/blob/main/github-contribution-grid-snake.svg)
 
 ---
 
@@ -84,7 +75,10 @@
 <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>-->
 
-
+<!-- <h3> Hello Devs 😶‍🌫️, I am Ankan Ghosh 🌀</h3> -->
+<!--<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CFF30&center=true&random=false&width=435&lines=Hi%2C+I+am+Ankan;Engineer;Deep+Learning;Opensource" alt="Typing SVG" /></a>
+</p> -->
 
 
 
