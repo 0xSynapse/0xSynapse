@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/techstack.gif" width="220px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/0xSynapse/0xSynapse/main/techstack.gif" width="210px"/>
 
 ### 🧐 More About Me
 
