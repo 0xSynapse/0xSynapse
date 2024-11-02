@@ -10,12 +10,12 @@
 
 ### 🧐 More About Me
 
-- 🔭 &nbsp; I worked on [Ultralytics-Explorer](https://github.com/ultralytics/ultralytics) , [YOLOv9](https://github.com/WongKinYiu/yolov9) , [YOLOv10](https://github.com/THU-MIG/yolov10)
-- 🌱 &nbsp; I’m currently learning Deep Learning
+- 🔭 &nbsp; Worked on [Ultralytics-Explorer](https://github.com/ultralytics/ultralytics) , [YOLOv9](https://github.com/WongKinYiu/yolov9) , [YOLOv10](https://github.com/THU-MIG/yolov10)
+- 🌱 &nbsp; I’m currently doing Deep Learning.
 - 📝 &nbsp; Read my blogs on [LearnOpenCV](https://learnopencv.com/author/ankan/) 
 - 📫 &nbsp; Feel free to reach me on [Mail](mailto:work.ankanghosh@gmail.com)
 - 🪪 &nbsp; Checkout my [Resume]()
-- 🎬 &nbsp; When I am free, I watch [The Apu's Trilogy](https://satyajitray.org/apu-trilogy)
+- 🎬 &nbsp; I watch [The Apu's Trilogy](https://satyajitray.org/apu-trilogy) quite often!
 
 ---
 
