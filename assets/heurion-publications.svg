@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 248" width="100%" height="248" fill="none">
+  <style>
+    .paper { fill: #FAF8F4; stroke: #DFDAD0; }
+    .rule { stroke: #DFDAD0; }
+    .serif-h2 { fill: #151C19; font-family: "Newsreader", Georgia, "Noto Serif SC", "Songti SC", serif; font-weight: 400; }
+    .serif-h3 { fill: #151C19; font-family: "Newsreader", Georgia, "Noto Serif SC", "Songti SC", serif; font-weight: 400; }
+    .sans-sub { fill: #525B56; font-family: "Inter", -apple-system, BlinkMacSystemFont, "PingFang SC", sans-serif; font-weight: 400; }
+    .mono-label { fill: #848D88; font-family: "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace; font-weight: 500; letter-spacing: 1.2px; }
+    .mono-link { fill: #233E33; font-family: "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace; font-weight: 500; letter-spacing: 0.5px; }
+  </style>
+
+  <!-- Outer Nordic Warm Paper Frame (#FAF8F4) -->
+  <rect class="paper" x="1" y="1" width="958" height="246" stroke-width="1"/>
+
+  <!-- Section Header -->
+  <text class="serif-h2" x="36" y="42" font-size="22">Publications &amp; Specifications · 研究论文与协议规范</text>
+  <text class="mono-label" x="924" y="40" text-anchor="end" font-size="9.5">02 / PUBLICATIONS</text>
+
+  <!-- Row 1: Heurion 2.0 -->
+  <line class="rule" x1="36" y1="62" x2="924" y2="62" stroke-width="1"/>
+  <text class="mono-label" x="36" y="92" font-size="9.5">2026 · CLINICAL AI</text>
+  <text class="serif-h3" x="216" y="90" font-size="16">Heurion 2.0: Contract-Guarded Clinical Research Intelligence</text>
+  <text class="sans-sub" x="216" y="109" font-size="11.2">Hui Zhao, Dong Qian (First Affiliated Hospital of USTC) ·heurion-org/heurion</text>
+  <text class="mono-link" x="924" y="96" text-anchor="end" font-size="10">PDF  ·  LaTeX  ·  Code →</text>
+
+  <!-- Row 2: Aegis OS -->
+  <line class="rule" x1="36" y1="124" x2="924" y2="124" stroke-width="1"/>
+  <text class="mono-label" x="36" y="154" font-size="9.5">2026 · AGENT SYSTEMS</text>
+  <text class="serif-h3" x="216" y="152" font-size="16">Aegis OS: Transactional Multi-Tenant Agent Operating System</text>
+  <text class="sans-sub" x="216" y="171" font-size="11.2">Hui Zhao (Heurion Research) · ACM TOSEM Submission &amp; arXiv · heurion-org/aegis-os</text>
+  <text class="mono-link" x="924" y="158" text-anchor="end" font-size="10">PDF  ·  LaTeX  ·  Code →</text>
+
+  <!-- Row 3: UOMP-Draft-00 -->
+  <line class="rule" x1="36" y1="186" x2="924" y2="186" stroke-width="1"/>
+  <text class="mono-label" x="36" y="216" font-size="9.5">2026 · PROTOCOL RFC</text>
+  <text class="serif-h3" x="216" y="214" font-size="16">UOMP-Draft-00: User-Owned Memory Protocol for AI Agents</text>
+  <text class="sans-sub" x="216" y="233" font-size="11.2">Hui Zhao (@0xSynapse) · Local-First EdDSA Capability Memory · 0xSynapse/uomp-core</text>
+  <text class="mono-link" x="924" y="220" text-anchor="end" font-size="10">RFC Spec  ·  uomp.org →</text>
+</svg>

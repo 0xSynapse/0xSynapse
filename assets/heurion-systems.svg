@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 288" width="100%" height="288" fill="none">
+  <style>
+    .linen { fill: #EFECE4; stroke: #DFDAD0; }
+    .card { fill: #FDFCF9; stroke: #DFDAD0; }
+    .rule { stroke: #DFDAD0; }
+    .serif-h2 { fill: #151C19; font-family: "Newsreader", Georgia, "Noto Serif SC", "Songti SC", serif; font-weight: 400; }
+    .serif-em { fill: #233E33; font-family: "Newsreader", Georgia, "Noto Serif SC", "Songti SC", serif; font-style: italic; font-weight: 400; }
+    .serif-num { fill: #233E33; font-family: "Newsreader", Georgia, serif; font-weight: 400; }
+    .serif-stat { fill: #151C19; font-family: "Newsreader", Georgia, serif; font-weight: 400; }
+    .sans-desc { fill: #525B56; font-family: "Inter", -apple-system, BlinkMacSystemFont, "PingFang SC", sans-serif; font-weight: 400; }
+    .mono-label { fill: #848D88; font-family: "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace; font-weight: 500; letter-spacing: 1.2px; }
+  </style>
+
+  <!-- Outer Warm Linen Frame (#EFECE4) -->
+  <rect class="linen" x="1" y="1" width="958" height="286" stroke-width="1"/>
+
+  <!-- Section Header -->
+  <text class="serif-h2" x="36" y="42" font-size="22">Core systems &amp; open protocols, one <tspan class="serif-em">verifiable</tspan> stack.</text>
+  <text class="mono-label" x="924" y="40" text-anchor="end" font-size="9.5">01 / CORE SYSTEMS</text>
+
+  <!-- ==================== CARD 01: HEURION 2.0 ==================== -->
+  <g transform="translate(36, 62)">
+    <rect class="card" x="0" y="0" width="282" height="200" stroke-width="1"/>
+    <text class="serif-num" x="20" y="30" font-size="17">01</text>
+    <text class="mono-label" x="48" y="28" font-size="8.5">APPLICATION LAYER · MIT</text>
+    <!-- Emblem 01 -->
+    <circle cx="242" cy="24" r="8" stroke="#233E33" stroke-width="1"/>
+    <circle cx="252" cy="24" r="8" stroke="#848D88" stroke-width="1"/>
+    <circle cx="247" cy="24" r="2.2" fill="#8F5638"/>
+    <line class="rule" x1="20" y1="42" x2="262" y2="42" stroke-width="1"/>
+
+    <text class="serif-h2" x="20" y="68" font-size="18.5">Heurion 2.0 &amp; OmniCanvas</text>
+    <text class="serif-em" x="20" y="87" font-size="12.5">Clinical Research AI Workstation · 临床科研工作台</text>
+    <text class="sans-desc" x="20" y="110" font-size="11.2">Structure-preserving manuscripts, sandboxed</text>
+    <text class="sans-desc" x="20" y="126" font-size="11.2">biostatistics &amp; zero-leakage cohorts on Yjs CRDT.</text>
+
+    <line class="rule" x1="20" y1="142" x2="262" y2="142" stroke-width="1"/>
+    <text class="serif-stat" x="20" y="168" font-size="17">96.4%</text>
+    <text class="mono-label" x="20" y="183" font-size="7.5">DOCX FIDELITY</text>
+
+    <text class="serif-stat" x="108" y="168" font-size="17">99.6%</text>
+    <text class="mono-label" x="108" y="183" font-size="7.5">PHI GATEKEEPER</text>
+
+    <text class="serif-stat" x="198" y="168" font-size="17">+18.3pp</text>
+    <text class="mono-label" x="198" y="183" font-size="7.5">MEMORY GAIN</text>
+  </g>
+
+  <!-- ==================== CARD 02: AEGIS OS ==================== -->
+  <g transform="translate(339, 62)">
+    <rect class="card" x="0" y="0" width="282" height="200" stroke-width="1"/>
+    <text class="serif-num" x="20" y="30" font-size="17">02</text>
+    <text class="mono-label" x="48" y="28" font-size="8.5">KERNEL LAYER · RUST</text>
+    <!-- Emblem 02 -->
+    <rect x="234" y="16" width="13" height="15" stroke="#233E33" stroke-width="1"/>
+    <rect x="247" y="16" width="13" height="15" fill="#233E33" fill-opacity="0.12" stroke="#233E33" stroke-width="1"/>
+    <circle cx="247" cy="23.5" r="2.2" fill="#233E33"/>
+    <line class="rule" x1="20" y1="42" x2="262" y2="42" stroke-width="1"/>
+
+    <text class="serif-h2" x="20" y="68" font-size="18.5">Aegis OS (aegis-os)</text>
+    <text class="serif-em" x="20" y="87" font-size="12.5">Transactional Agent OS · 事务级多租户智能体内核</text>
+    <text class="sans-desc" x="20" y="110" font-size="11.2">Copy-on-Write shadow workspaces, kernel</text>
+    <text class="sans-desc" x="20" y="126" font-size="11.2">sandboxing &amp; Ed25519 leases for coding agents.</text>
+
+    <line class="rule" x1="20" y1="142" x2="262" y2="142" stroke-width="1"/>
+    <text class="serif-stat" x="20" y="168" font-size="17">0%</text>
+    <text class="mono-label" x="20" y="183" font-size="7.5">OVERWRITES</text>
+
+    <text class="serif-stat" x="108" y="168" font-size="17">0.42ms</text>
+    <text class="mono-label" x="108" y="183" font-size="7.5">COW FORK</text>
+
+    <text class="serif-stat" x="198" y="168" font-size="17">-99.4%</text>
+    <text class="mono-label" x="198" y="183" font-size="7.5">IPC COST</text>
+  </g>
+
+  <!-- ==================== CARD 03: UOMP & SECURITY SUITE ==================== -->
+  <g transform="translate(642, 62)">
+    <rect class="card" x="0" y="0" width="282" height="200" stroke-width="1"/>
+    <text class="serif-num" x="20" y="30" font-size="17">03</text>
+    <text class="mono-label" x="48" y="28" font-size="8.5">PROTOCOL &amp; SECURITY</text>
+    <!-- Emblem 03 -->
+    <polygon points="247,15 259,20 259,28 247,33 235,28 235,20" stroke="#233E33" stroke-width="1"/>
+    <circle cx="247" cy="24" r="2.2" fill="#00C472"/>
+    <line class="rule" x1="20" y1="42" x2="262" y2="42" stroke-width="1"/>
+
+    <text class="serif-h2" x="20" y="68" font-size="18.5">UOMP &amp; IronMac Suite</text>
+    <text class="serif-em" x="20" y="87" font-size="12.5">Sovereign Memory &amp; Hardened Web3 Workstation</text>
+    <text class="sans-desc" x="20" y="110" font-size="11.2">Local-first capability memory (uomp.org), macOS</text>
+    <text class="sans-desc" x="20" y="126" font-size="11.2">endpoint hardening &amp; MCP macro quant engines.</text>
+
+    <line class="rule" x1="20" y1="142" x2="262" y2="142" stroke-width="1"/>
+    <text class="serif-stat" x="20" y="168" font-size="17">Draft-00</text>
+    <text class="mono-label" x="20" y="183" font-size="7.5">UOMP RFC</text>
+
+    <text class="serif-stat" x="108" y="168" font-size="17">EdDSA</text>
+    <text class="mono-label" x="108" y="183" font-size="7.5">SESSION JWT</text>
+
+    <text class="serif-stat" x="198" y="168" font-size="17">100%</text>
+    <text class="mono-label" x="198" y="183" font-size="7.5">LOCAL STORE</text>
+  </g>
+</svg>
