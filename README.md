@@ -30,7 +30,7 @@
 I am an independent **Systems & AI Researcher** and **Product Architect** based in Rotterdam, Netherlands, and the founder of [**Heurion Research (`heurion-org`)**](https://github.com/heurion-org). My work focuses on **contract-guarded clinical research intelligence**, **transactional operating system runtimes for autonomous agents**, and **local-first sovereign memory protocols**.
 
 - **Thesis**: *Models generate probabilities; science demands certainty. Bound to transactional state, intelligence becomes infrastructure.*（模型长于推理，科学始于确定。锚定契约内核，智能方成底座。）
-- **Focus Areas**: Agent Operating Systems (`Rust`, `CoW VFS`, `Seatbelt/Bubblewrap`, `MCP/A2A`) · Clinical Research AI & Collaborative CRDT Engines (`TypeScript`, `ProseMirror/Yjs`, `Biostatistics`, `PHI Privacy`) · Sovereign Memory & Endpoint Security (`UOMP`, `IronMac`).
+- **Focus Areas**: Agent Operating Systems (`Rust`, `CoW VFS`, `Seatbelt/Bubblewrap`, `MCP/A2A`) · Clinical Research AI & Collaborative CRDT Engines (`TypeScript`, `ProseMirror/Yjs`, `Biostatistics`, `PHI Privacy`) · Sovereign Memory Protocols (`UOMP`).
 - **Environment**: Linux & macOS only (`aarch64` / Apple Silicon).
 
 ---
@@ -44,9 +44,6 @@ I am an independent **Systems & AI Researcher** and **Product Architect** based 
 | [**`heurion-org/heurion`**](https://github.com/heurion-org/heurion)<br/><sub><b>Heurion 2.0 & OmniCanvas</b> · <a href="https://heurion.org">heurion.org</a></sub> | **Contract-Guarded Clinical Research AI Workstation & Studio** — Dual-surface `ProseMirror + Yjs` CRDT (`96.4%` `.docx`/`.pptx` fidelity, `0.128ms` per-turn rollback), 4-way PubMed/PMC/OpenAlex citation verification, 2-stage local PHI gatekeeper (`98.6%`–`99.6%` recall), sandboxed biostatistics, and 3-layer self-evolving memory (`-49%` guard rejections). | `TypeScript` `Node.js 24` `Yjs` `Python` `Rust/WASM` `MCP` |
 | [**`heurion-org/aegis-os`**](https://github.com/heurion-org/aegis-os)<br/><sub><b>Aegis OS (`aegis-os`)</b></sub> | **Transactional Multi-Tenant Agent Operating System Runtime** — Eliminates coding-agent authorization fatigue (`-90.7%` to `-97.9%` prompts across 28,087 real calls; `1.12%` IPR) via sub-10ms Copy-on-Write shadow workspaces (`APFS clonefile` / `Btrfs FICLONE`), 4-tier LCS Diff3 auto-merge, Seatbelt/Bubblewrap sandboxing (`0.0%` ASR across 80 attacks), and L7 `$AOS_SECRET_*` egress DLP. | `Rust` `APFS/Btrfs CoW` `Seatbelt` `Bubblewrap` `MCP` `A2A` |
 | [**`0xSynapse/uomp-core`**](https://github.com/0xSynapse/uomp-core)<br/><sub><b>User-Owned Memory Protocol</b> · <a href="https://www.uomp.org">uomp.org</a></sub> | **Local-First Sovereign Memory Protocol (`UOMP`)** — Keeps personal memory in local SQLite (`~/.uomp`) and grants AI agents temporary, session-bound, tag/key-scoped access via short-lived EdDSA-signed JWT Capability Tokens and a local `Memory Guard`. | `TypeScript` `SQLite` `EdDSA JWT` `CLI / SDK` |
-| [**`0xSynapse/ironmac`**](https://github.com/0xSynapse/ironmac)<br/><sub><b>Hardened macOS Web3 Suite</b></sub> | **macOS Endpoint Security & Web3 Workstation Suite** — Comprehensive macOS security audit (FileVault, SIP, Firewall, Stealth Mode), defense against AMOS infostealers & blind signing, Keychain/Vault transaction guard, and MCP defense telemetry. | `Shell` `macOS Security` `Ruby` `MCP` |
-| [**`0xSynapse/crypto-strategy`**](https://github.com/0xSynapse/crypto-strategy)<br/><sub><b>AI Macro Cycle & DCA</b> · <a href="https://alphanalyzor.trade">alphanalyzor.trade</a></sub> | **Deterministic Multi-Factor Macro Cycle & Dynamic DCA Engine** — Combines a quantitative macro cycle thermometer (`0–100`), US Treasury/RWA mapping, token dilution penetration auditing, and an MCP server with 0-Gas intent execution. | `TypeScript` `Quant Models` `MCP` `DeFi / RWA` |
-| [**`0xSynapse/stark-ark`**](https://github.com/0xSynapse/stark-ark) & [**`openharmony-mac-build`**](https://github.com/0xSynapse/openharmony-mac-build) | **Systems & Rust Tooling** — **`stark-ark`**: AI-first Rust CLI/TUI wallet & MCP server for Starknet v10 RPC; **`openharmony-mac-build`**: Native OpenHarmony (`arm64_virt`) build system patches and QEMU/EGL bring-up on macOS Apple Silicon. | `Rust` `C / C++` `Starknet` `OpenHarmony` |
 
 ---
 
@@ -71,6 +68,6 @@ I am an independent **Systems & AI Researcher** and **Product Architect** based 
 <div align="center">
 
 <img src="./icons/shield.svg" width="16" height="16" valign="middle" /> <b>Hui Zhao (<code>@0xSynapse</code>) · Heurion Research</b><br/>
-<sub><b><a href="https://heurion.org">heurion.org</a></b> · <b><a href="https://www.uomp.org">uomp.org</a></b> · <b><a href="https://alphanalyzor.trade">alphanalyzor.trade</a></b> · <b><a href="https://beatwindows.org">beatwindows.org</a></b> · Email: <a href="mailto:huizhao@heurion.org">huizhao@heurion.org</a></sub>
+<sub><b><a href="https://heurion.org">heurion.org</a></b> · <b><a href="https://www.uomp.org">uomp.org</a></b> · <b><a href="https://github.com/heurion-org">github.com/heurion-org</a></b> · Email: <a href="mailto:huizhao@heurion.org">huizhao@heurion.org</a></sub>
 
 </div>
