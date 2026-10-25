@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 236" width="100%" height="236" fill="none">
+  <style>
+    .bg { fill: #f8fafc; stroke: #cbd5e1; }
+    .panel { fill: #ffffff; stroke: #cbd5e1; }
+    .panel-accent { fill: #f0fdf4; stroke: #10b981; }
+    .pill { fill: #f1f5f9; stroke: #cbd5e1; }
+    .pill-green { fill: #dcfce7; stroke: #86efac; }
+    .pill-blue { fill: #dbeafe; stroke: #93c5fd; }
+    .title { fill: #0f172a; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 800; }
+    .subtitle { fill: #1e293b; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 600; }
+    .quote { fill: #475569; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-style: italic; font-weight: 500; }
+    .muted { fill: #64748b; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-weight: 500; }
+    .mono { fill: #0f766e; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-weight: 600; }
+    .mono-blue { fill: #1d4ed8; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-weight: 600; }
+    .metric-val { fill: #047857; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-weight: 700; }
+    .dot-green { fill: #10b981; }
+    .divider { stroke: #e2e8f0; }
+
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #070b12; stroke: #1e293b; }
+      .panel { fill: #0f172a; stroke: #334155; }
+      .panel-accent { fill: #061c16; stroke: #059669; }
+      .pill { fill: #1e293b; stroke: #334155; }
+      .pill-green { fill: #064e3b; stroke: #059669; }
+      .pill-blue { fill: #1e3a8a; stroke: #3b82f6; }
+      .title { fill: #f8fafc; }
+      .subtitle { fill: #e2e8f0; }
+      .quote { fill: #94a3b8; }
+      .muted { fill: #94a3b8; }
+      .mono { fill: #00ff93; }
+      .mono-blue { fill: #60a5fa; }
+      .metric-val { fill: #00ff93; }
+      .dot-green { fill: #00ff93; }
+      .divider { stroke: #1e293b; }
+    }
+  </style>
+
+  <!-- Outer Frame -->
+  <rect class="bg" x="4" y="4" width="912" height="228" rx="16" stroke-width="1.5"/>
+
+  <!-- Left Identity Column -->
+  <circle class="dot-green" cx="34" cy="34" r="4.5"/>
+  <text class="mono" x="46" y="38" font-size="11" letter-spacing="0.5">SYSTEMS &amp; AI RESEARCHER · FOUNDER @ HEURION RESEARCH · ROTTERDAM, NL</text>
+
+  <text class="title" x="28" y="76" font-size="28" letter-spacing="-0.3">Hui Zhao</text>
+  <rect class="pill-green" x="162" y="54" width="116" height="26" rx="8" stroke-width="1"/>
+  <text class="mono" x="175" y="71" font-size="13">@0xSynapse</text>
+
+  <text class="subtitle" x="28" y="106" font-size="14">Contract-Guarded Agent Operating Systems · Sovereign Memory Protocols · Clinical AI</text>
+  <text class="quote" x="28" y="130" font-size="12">"The human link between users and builders — enforcing structural, cryptographic &amp; clinical invariants at the execution boundary."</text>
+
+  <line class="divider" x1="28" y1="146" x2="588" y2="146" stroke-width="1"/>
+
+  <!-- Row 1 Pills -->
+  <rect class="pill-green" x="28" y="158" width="172" height="24" rx="6" stroke-width="1"/>
+  <text class="mono" x="40" y="174" font-size="10.5">Heurion · heurion.org</text>
+
+  <rect class="pill-blue" x="208" y="158" width="154" height="24" rx="6" stroke-width="1"/>
+  <text class="mono-blue" x="220" y="174" font-size="10.5">UOMP · uomp.org</text>
+
+  <rect class="pill" x="370" y="158" width="218" height="24" rx="6" stroke-width="1"/>
+  <text class="subtitle" x="382" y="174" font-size="10.5">Stack: Rust · TypeScript · Python · C</text>
+
+  <!-- Row 2 Pills -->
+  <rect class="pill" x="28" y="190" width="276" height="24" rx="6" stroke-width="1"/>
+  <text class="muted" x="40" y="206" font-size="10.5">Protocols: MCP · Google A2A · AAP-1.0 · UOMP-00</text>
+
+  <rect class="pill" x="312" y="190" width="276" height="24" rx="6" stroke-width="1"/>
+  <text class="muted" x="324" y="206" font-size="10.5">OS Substrate: macOS (APFS) &amp; Linux (Btrfs/XFS)</text>
+
+  <!-- Right Telemetry Card -->
+  <rect class="panel-accent" x="610" y="22" width="286" height="192" rx="12" stroke-width="1.5"/>
+  <text class="mono" x="628" y="45" font-size="10.5" letter-spacing="0.4">RESEARCH &amp; SYSTEM TELEMETRY</text>
+  <line class="divider" x1="628" y1="54" x2="878" y2="54" stroke-width="1"/>
+
+  <text class="metric-val" x="628" y="76" font-size="12.5">2 Preprints + 1 RFC</text>
+  <text class="muted" x="768" y="76" font-size="10.5">cs.OS / CR / AI</text>
+
+  <text class="metric-val" x="628" y="102" font-size="12.5">-90.7% to -99.9%</text>
+  <text class="muted" x="768" y="102" font-size="10.5">Auth Prompts</text>
+
+  <text class="metric-val" x="628" y="128" font-size="12.5">0.0% ASR (0/80)</text>
+  <text class="muted" x="768" y="128" font-size="10.5">Red-Team Eval</text>
+
+  <text class="metric-val" x="628" y="154" font-size="12.5">6.3ms / 15.6ms</text>
+  <text class="muted" x="768" y="154" font-size="10.5">CoW Fork Latency</text>
+
+  <text class="metric-val" x="628" y="180" font-size="12.5">98.6% PHI Recall</text>
+  <text class="muted" x="768" y="180" font-size="10.5">2-Stage Funnel</text>
+
+  <text class="metric-val" x="628" y="202" font-size="12.5">-49% Rejections</text>
+  <text class="muted" x="768" y="202" font-size="10.5">Evolving Memory</text>
+</svg>
