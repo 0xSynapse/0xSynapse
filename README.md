@@ -11,7 +11,7 @@
   <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/Standards-MCP_%7C_A2A_%7C_AAP--1.0-3B82F6?style=flat-square&labelColor=06110D" alt="Standards" /></a>
   <a href="https://arxiv.org/abs/2611.08516"><img src="https://img.shields.io/badge/arXiv-2611.08516-B31B1B?style=flat-square&labelColor=06110D" alt="arXiv:2611.08516" /></a>
   <a href="https://doi.org/10.5281/zenodo.24170505"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24170505-007EC6?style=flat-square&labelColor=06110D" alt="DOI: 10.5281/zenodo.24170505" /></a>
-  <a href="#publications"><img src="https://img.shields.io/badge/Research-3_Preprints_%2B_4_Monographs-B31B1B?style=flat-square&labelColor=06110D" alt="Research" /></a>
+  <a href="#publications"><img src="https://img.shields.io/badge/Research-2_Preprints_%2B_4_Monographs-B31B1B?style=flat-square&labelColor=06110D" alt="Research" /></a>
   <a href="mailto:huizhao@heurion.org"><img src="https://img.shields.io/badge/Contact-huizhao%40heurion.org-34D399?style=flat-square&labelColor=06110D" alt="Email" /></a>
 </p>
 
@@ -70,15 +70,11 @@ Long-form bilingual systems monographs dissecting the architecture, formal invar
 
 ## <img src="./icons/book.svg" width="18" height="18" valign="middle" /> Research Publications & Preprints
 
-1. **Heurion 2.0: A Contract-Guarded Dual-Surface Architecture with Self-Evolving Memory for Citation-Grounded Clinical Research Authoring**  
-   *Hui Zhao (Heurion Research, Rotterdam, Netherlands)* · `cs.AI` / `cs.CL` / `cs.HC` / `cs.MA` (2026)  
-   [**Paper PDF (`heurion/paper/main.pdf`)**](https://github.com/heurion-org/heurion/blob/main/paper/main.pdf) · [**LaTeX Source (`main.tex`)**](https://github.com/heurion-org/heurion/blob/main/paper/main.tex) · [**Evaluation Suite (`paper/benchmarks`)**](https://github.com/heurion-org/heurion/tree/main/paper/benchmarks) · [**Code (`heurion-org/heurion`)**](https://github.com/heurion-org/heurion)
-
-2. **Aegis OS: A Transactional Multi-Tenant Operating System Runtime for Eliminating Authorization Fatigue in Autonomous Coding Agents**  
+1. **Aegis OS: A Transactional Multi-Tenant Operating System Runtime for Eliminating Authorization Fatigue in Autonomous Coding Agents**  
    *Hui Zhao (Heurion Research, Rotterdam, Netherlands)* · `cs.OS` / `cs.CR` / `cs.AI` / `cs.MA` / `cs.SE` · *arXiv:2611.08516 & ACM TOSEM Submission (2026)*  
    [**arXiv (`2611.08516`)**](https://arxiv.org/abs/2611.08516) · [**arXiv PDF**](https://arxiv.org/pdf/2611.08516) · [**Repo PDF (`aegis_os_arxiv_preprint.pdf`)**](https://github.com/heurion-org/aegis-os/blob/main/paper/aegis_os_arxiv_preprint.pdf) · [**LaTeX Source (`main.tex`)**](https://github.com/heurion-org/aegis-os/blob/main/paper/main.tex) · [**Benchmark Report (`BENCHMARK_REPORT.md`)**](https://github.com/heurion-org/aegis-os/blob/main/BENCHMARK_REPORT.md) · [**Code (`heurion-org/aegis-os`)**](https://github.com/heurion-org/aegis-os)
 
-3. **Why Agent Plugins Are Not a Security Boundary: Inverting Control from In-Process Hooks to a Kernel-Enforced Agent Runtime**  
+2. **Why Agent Plugins Are Not a Security Boundary: Inverting Control from In-Process Hooks to a Kernel-Enforced Agent Runtime**  
    *Hui Zhao (Heurion Research, Rotterdam, Netherlands)* · `cs.CR` / `cs.OS` / `cs.SE` / `cs.AI` · *DOI: 10.5281/zenodo.24170505 & IEEE TDSC Submission (2026)*  
    [**Zenodo (`10.5281/zenodo.24170505`)**](https://doi.org/10.5281/zenodo.24170505) · [**Paper PDF (`aegis_enforced_runtime_arxiv_preprint.pdf`)**](https://github.com/heurion-org/aegis-os/blob/main/paper2/aegis_enforced_runtime_arxiv_preprint.pdf) · [**LaTeX Source (`paper2/main.tex`)**](https://github.com/heurion-org/aegis-os/blob/main/paper2/main.tex) · [**Benchmark Report (`ENFORCED_RUNTIME_BENCH_REPORT.json`)**](https://github.com/heurion-org/aegis-os/blob/main/paper2/ENFORCED_RUNTIME_BENCH_REPORT.json) · [**Companion Monograph (`heurion.org`)**](https://heurion.org/en/blog/from-agent-plugins-to-enforced-runtime) · [**Code (`heurion-org/aegis-os`)**](https://github.com/heurion-org/aegis-os)
 
